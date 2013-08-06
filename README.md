@@ -1,4 +1,4 @@
-hmdavis-hmdavis.github.io
+hmdavis.github.io
 =========================
 
 website
